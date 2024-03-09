@@ -1,5 +1,0 @@
-The script is currently running in: 
-.git
-FBX
-ICO
- 
